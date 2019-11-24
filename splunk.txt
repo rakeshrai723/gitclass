@@ -1,2 +1,3 @@
 apt-get install java
 apt-get status
+install ubuntu
