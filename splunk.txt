@@ -1,1 +1,2 @@
-creating splunk
+apt-get install java
+apt-get status
